@@ -11,8 +11,10 @@ And it has list_view_activity which is in .xml format. In this, the TextSize is 
 
 Instructions to set up and run the application
 ------------------------------------------------
-Download and install Android Studio and set it up correctly.
-create a new project and enter it into the code
-Add all the requirements.
-Run the code by clicking on the run button and observe the result.
-Enter the tasks that you want. Once the tasks are completed then click on the particular task. It will be struck out 
+You must download Android Studio.
+Must select one activity for the final result.
+Give the application name and package name.
+Minimum SDK is API 16 ("Jelly Bean"; Android 4.1). If you give another SDK, the application will not run.
+There won't be errors. This gives a good result.
+You must use the run icon to run the application.
+
